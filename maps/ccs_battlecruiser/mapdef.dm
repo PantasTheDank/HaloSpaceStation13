@@ -14,7 +14,9 @@
 	company_name  = "Covenant"
 	company_short = "Covenant"
 	system_name = "Uncharted System"
-	overmap_size= 60
+	overmap_size= 3
+	use_overmap = 1
+
 	allowed_jobs = list(\
 		/datum/job/opredflag_elite,\
 		/datum/job/opredflag_elite/major,\

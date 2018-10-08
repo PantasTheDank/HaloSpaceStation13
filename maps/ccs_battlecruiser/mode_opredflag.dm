@@ -3,7 +3,7 @@
 	name = "Operation: Red Flag"
 	config_tag = "opredflag"
 	round_description = "The UNSC Spartan-IIs are dispatched to take down a Covenant Prophet."
-	extended_round_description = "Everyone single Spartan II has been summoned from the far reaches of space. \
+	extended_round_description = "Every single Spartan II has been summoned from the far reaches of space. \
 		Their mission is to board a Covenant battlecruiser and identify then terminate one of the Covenant's religous leaders... a Prophet."
 
 	end_on_antag_death = 1
