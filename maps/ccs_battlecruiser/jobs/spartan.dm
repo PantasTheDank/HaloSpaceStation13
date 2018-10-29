@@ -28,6 +28,6 @@
 	shoes = /obj/item/clothing/shoes/magboots/spartan
 	gloves = /obj/item/clothing/gloves/spartan
 	head = /obj/item/clothing/head/helmet/spartan
-	l_ear = /obj/item/device/radio/headset/spartan
+	l_ear = /obj/item/device/radio/headset/unsc/odsto
 	suit_store = /obj/item/weapon/tank/emergency/oxygen/double
 	backpack = null
