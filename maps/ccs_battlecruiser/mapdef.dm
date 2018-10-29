@@ -44,3 +44,12 @@
 	. = ..()
 	name = pick(GLOB.covenant_ship_names)
 	full_name = "CCS Battlecruiser \"[name]\""
+
+
+/obj/effect/overmap/ship/covenant_corvette
+	name = "CCS Class Battlecruiser"
+	desc = "The silhouette of this ship matches no known ship signature"
+
+	icon = 'maps/first_contact/maps/Covenant Corvette/Corvette2.dmi'
+	icon_state = "ship"
+	fore_dir = WEST
