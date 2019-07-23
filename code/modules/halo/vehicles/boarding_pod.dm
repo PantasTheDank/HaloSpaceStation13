@@ -109,7 +109,7 @@
 
 /obj/vehicles/drop_pod/overmap/boarding_pod/SoE
 	name = "Sons of Eridanus Boarding Pod"
-	desc = "Someone decided it was a good idea to cut a Bumblebee boarding pod in half,paint it grey, put a loudspeaker and a flashbang detonator on top and call it a "unique" boarding pod. Well...what can go wrong?"."
+	desc = "Someone decided it was a good idea to cut a Bumblebee boarding pod in half,paint it grey, put a loudspeaker and a flashbang detonator on top and call it an effective boarding pod. Well...what can go wrong?"."
 	density = 1
 	anchored = 1
 	launch_arm_time = 1 SECONDS
@@ -160,7 +160,7 @@
 
 /obj/vehicles/drop_pod/overmap/boarding_pod
 	name = "Son of Eridanus Boarding Pod"
-	desc = "Someone decided it was a good idea to cut a Bumblebee boarding pod in half,paint it grey, put a loudspeaker and a flashbang detonator on top and call it a "unique" boarding pod. Well...what can go wrong?"
+	desc = "Someone decided it was a good idea to cut a Bumblebee boarding pod in half,paint it grey, put a loudspeaker and a flashbang detonator on top and call it an effective boarding pod. Well...what can go wrong?"
 	icon = 'code/modules/halo/vehicles/soe_pod.dmi'
 	icon_state = "soe_boarding_pod"
 
