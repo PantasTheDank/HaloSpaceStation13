@@ -1,5 +1,5 @@
 
-/obj/vehicles/drop_pod/overmap/boarding_pod
+/obj/vehicles/drop_pod/overmap/boarding_pod/SoE
 	name = "Sons of Eridanus Boarding Pod"
 	desc = "Someone decided it was a good idea to cut a Bumblebee boarding pod in half,paint it grey, put a loudspeaker and a flashbang detonator on top and call it a "unique" boarding pod. Well...what can go wrong?"."
 	density = 1
